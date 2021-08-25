@@ -1,0 +1,2 @@
+#Sample git repository
+Hi I am new to git
