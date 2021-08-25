@@ -1,2 +1,9 @@
 #Sample git repository
 Hi I am new to git
+
+
+Well I am trying to add some changes
+
+Hopefully you like it
+
+Hey its 24th of August
